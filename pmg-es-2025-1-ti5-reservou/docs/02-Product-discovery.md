@@ -11,14 +11,15 @@
 
 >
 > * **Matriz CSD**:  
-![Descrição da imagem](/docs/images/Matriz%20CSD.png)
+![Descrição da imagem](https://github.com/Gean1218/Reservou.2/blob/a3bc34f248b23fc726904713c33446d6207f636d/pmg-es-2025-1-ti5-reservou/docs/images/Matriz%20CSD.png)
 > * **Mapa de stakeholders**: 
-![Descrição da imagem](/docs/images/Mapa%20de%20Stakeholders.png)
+![Descrição da imagem](https://github.com/Gean1218/Reservou.2/blob/a3bc34f248b23fc726904713c33446d6207f636d/pmg-es-2025-1-ti5-reservou/docs/images/Mapa%20de%20Stakeholders.png
+)
 
 > * **Entrevistas qualitativas**:
 ![image.alt](https://github.com/Gean1218/Reservou.2/blob/f13d5045a5c78a68012f2925c8434731eeeab390/pmg-es-2025-1-ti5-reservou/docs/images/ENTREVISTA%20QUALITATIVA.png)
 > * **Highlights de pesquisa**: 
-![Descrição da imagem](/docs/images/HIGHLIGHTS.png)
+![Descrição da imagem](https://github.com/Gean1218/Reservou.2/blob/a3bc34f248b23fc726904713c33446d6207f636d/pmg-es-2025-1-ti5-reservou/docs/images/HIGHLIGHTS.png)
 
 
 > **Links úteis**:
@@ -35,11 +36,13 @@
 > Deve-se relacionar as personas identificadas no projeto, juntamente com os respectivos mapas de empatia. É importante enumerar e descrever de maneira precisa e personalizada todos os principais envolvidos na solução pretendida.
 
 
-![Descrição da imagem](/docs/images/Personas/Persona1.png)
-![Descrição da imagem](/docs/images/Personas/Persona2.png)
-![Descrição da imagem](/docs/images/Personas/Persona3.png)
-![Descrição da imagem](/docs/images/Personas/persona4.png)
-![Descrição da imagem](/docs/images/Personas/persona5.png)
+![Descrição da imagem](
+https://github.com/Gean1218/Reservou.2/blob/a3bc34f248b23fc726904713c33446d6207f636d/pmg-es-2025-1-ti5-reservou/docs/images/Personas/Persona1.png)
+![Descrição da imagem](
+https://github.com/Gean1218/Reservou.2/blob/a3bc34f248b23fc726904713c33446d6207f636d/pmg-es-2025-1-ti5-reservou/docs/images/Personas/Persona2.png)
+![Descrição da imagem](https://github.com/Gean1218/Reservou.2/blob/a3bc34f248b23fc726904713c33446d6207f636d/pmg-es-2025-1-ti5-reservou/docs/images/Personas/Persona3.png)
+![Descrição da imagem](https://github.com/Gean1218/Reservou.2/blob/a3bc34f248b23fc726904713c33446d6207f636d/pmg-es-2025-1-ti5-reservou/docs/images/Personas/persona4.png)
+![Descrição da imagem](https://github.com/Gean1218/Reservou.2/blob/a3bc34f248b23fc726904713c33446d6207f636d/pmg-es-2025-1-ti5-reservou/docs/images/Personas/persona5.png)
 
 
 > **Links úteis**:
