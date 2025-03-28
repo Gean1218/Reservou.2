@@ -16,7 +16,7 @@
 ![Descrição da imagem](/docs/images/Mapa%20de%20Stakeholders.png)
 
 > * **Entrevistas qualitativas**:
-![Descrição da imagem](/docs/images/ENTREVISTA%20QUALITATIVA.png)
+![image.alt](https://github.com/Gean1218/Reservou.2/blob/f13d5045a5c78a68012f2925c8434731eeeab390/pmg-es-2025-1-ti5-reservou/docs/images/ENTREVISTA%20QUALITATIVA.png)
 > * **Highlights de pesquisa**: 
 ![Descrição da imagem](/docs/images/HIGHLIGHTS.png)
 
